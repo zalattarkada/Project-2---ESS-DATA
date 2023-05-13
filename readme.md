@@ -1,5 +1,8 @@
 # Project 3 - Análisis de una muestra de encuestas de la European Social Survey
 ---
+<p align="center">
+  <img src="images/ESS.png" />
+</p>
 
 En este trabajo se realiza un análisis de una muestra de encuestas de la European Social Survey, con el objetivo de evaluar las hipótesis planteadas a continuación:
 
@@ -26,9 +29,10 @@ A continuación, se lleva a cabo un análisis exploratorio de los datos, que inc
 
 Por último, se realizan pruebas de hipótesis para evaluar las hipótesis planteadas anteriormente y se representan los resultados visualmente mediante gráficas.
 
-
 ## Importación y creación de la base de datos
 En el archivo sql.ipynb se importa y crea la base de datos utilizada en el análisis y se realizan informes.
+
+---
 
 ## Conclusiones
 
@@ -37,6 +41,3 @@ Tras el análisis realizado, se puede concluir que:
 - La raza del inmigrante tiene un impacto significativo en la valoración que hacen los encuestados de la inmigración.
 - La variable de la raza tiene más importancia que la variable económica en la valoración de la inmigración.
 - No se encontraron diferencias concluyentes entre los encuestados de distintos países con una demografía similar en cuanto a su valoración de la inmigración. 
-
-## Autoría y contacto
-Este trabajo ha sido realizado por [nombre del autor/a] para el curso [nombre del curso] de la plataforma [nombre de la plataforma]. Para cualquier duda o comentario, por favor contactar a través del correo electrónico [correo electrónico].
