@@ -12,7 +12,7 @@ En este trabajo se realiza un análisis de una muestra de encuestas de la décim
 
 - La raza del inmigrante afecta significativamente a la valoración que hace el encuestado de la inmigración.
 - La variable de la raza de un inmigrante tiene más importancia que otra variable cómo la económica.
-- No hay una diferencia concluyente entre los encuestados de distintos países con una demografía similar (Italia, Francia y España).
+- No hay una diferencia concluyente entre los encuestados de distintos países con un porcentaje de población inmigrante similar (del 10% al 15%).
 
 ## Estructura del repositorio
 El repositorio cuenta con los siguientes elementos:
@@ -48,6 +48,8 @@ En el archivo sql.ipynb se importa y crea la base de datos utilizada en el anál
 
 Tras el análisis realizado, se puede concluir que:
 
-- La raza del inmigrante tiene un impacto significativo en la valoración que hacen los encuestados de la inmigración.
+- Pese a que se puede comprobar que los ciudadanos encuestados tienen por lo general una vision más negativa de la inmigración cuándo el inmigrante es de diferente raza, esta diferencia no es estadísticamente significativa. Por lo tanto, no se puede concluir que haya una diferencia significativa en la actitud hacia la inmigración dependiendo de si el inmigrante es de la misma raza o no en base a los datos proporcionados en el dataset.
+  
 - La variable de la raza tiene más importancia que la variable económica en la valoración de la inmigración.
-- No se encontraron diferencias concluyentes entre los encuestados de distintos países con una demografía similar en cuanto a su valoración de la inmigración. 
+  
+- Podemos concluir que la percepción de la inmigración es significativamente diferente entre los países incluidos en el análisis.
